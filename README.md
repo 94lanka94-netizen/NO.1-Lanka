@@ -1,4 +1,4 @@
-# 我的第一个仓库：NO.1-Lanka
+# NO.1-Lanka
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/114d4feb-346e-4d23-9aa0-a06f5b208b2a" width="300" style="border-radius: 10px;" />
